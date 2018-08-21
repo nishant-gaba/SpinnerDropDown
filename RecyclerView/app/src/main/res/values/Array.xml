@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Country">
+         <item>
+            Select Country
+        </item>
+        <item>
+            India
+        </item>
+        <item>
+            USA
+        </item>
+        <item>
+            Malaysia
+        </item>
+        <item>
+            Canada
+        </item>
+    </string-array>
+    <string-array name="IndiaStates">
+         <item>
+            Select State
+        </item>
+        <item>
+            i1
+        </item>
+        <item>
+            i2
+        </item>
+        <item>
+            i3
+        </item>
+        <item>
+            i4
+        </item>
+    </string-array>
+    <string-array name="USAState">
+         <item>
+            Select State
+        </item>
+        <item>
+            u1
+        </item>
+        <item>
+            u2
+        </item>
+        <item>
+           u3
+        </item>
+        <item>
+            u4
+        </item>
+    </string-array>
+</resources>
